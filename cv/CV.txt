@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='UTF-8'>
+        <center>
+        <h1>Himanshu Thakur</h1>
+        </center>
+        <img align="right" src="https://media-exp1.licdn.com/dms/image/C4E03AQGLNh7YzEGWQQ/profile-displayphoto-shrink_800_800/0/1644685204833?e=1656547200&v=beta&t=Oa5W53bXf1gNnIL9r1pfmQo5KdxLvoi6_Wq3Zw1pG10"  width="200" height="200"style="border:5px solid black;margin:0px 50px">">
+        <alt="Not Found ">
+        </alt>
+        <right>
+        <h3>Address-5B Shastri Nagar, 110031 Delhi, India </h3>
+        </right>
+        
+        <h3>Phone No-8375957847 </h3>
+        <h3>Email ID- thakurhimanshu952@gmail.com</h3>
+        <h2>PROFILE</h2>
+        <hr size=3 shade=
+        <h4>I am very solution oriented and cost conscious person. I have interests in Data Sciences, Quantum Computing,<br>ML and AI. I also read books related to Geopolitics and Technology</h4>
+        <h2>EDUCATION</h2>
+        <hr size=3 shade>
+        <h4> 1. 01/2022 – present <br>Delhi, India Graduation, DTU(Formerly Delhi College Of Engineering)</h4>
+        <h4>2. 2020 <br>12th, Kendriya vidyalaya New Delhi, India</h4>
+        <h2> ACHIVEMENTS</h3>
+        <hr size=3 shade>
+        <h4>. 84.2% in 12th Class <br>. 84.4% in 10th Class <br>. JEE Mains Qualified <br>. JEE    Advance Qualified</h4>
+        <h2> ACHIVEMENTS</h2>
+        <hr size=3 shade>
+        <h4>. C Language <br>. My SQL <br>. Python Language<br>. HTML</h4>
+   </head>
+</html>
+    
